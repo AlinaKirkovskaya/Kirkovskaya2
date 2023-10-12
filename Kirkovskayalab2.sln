@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kirkovskayalab2task1", "Kirkovskayalab2\Kirkovskayalab2task1.csproj", "{4B30F8E3-BA58-4B6F-924C-AE9FB87917ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2task2", "lab2task2\lab2task2.csproj", "{F3FF5687-1CFB-4FA2-BCFB-9C2D07550B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B30F8E3-BA58-4B6F-924C-AE9FB87917ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B30F8E3-BA58-4B6F-924C-AE9FB87917ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B30F8E3-BA58-4B6F-924C-AE9FB87917ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B30F8E3-BA58-4B6F-924C-AE9FB87917ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FF5687-1CFB-4FA2-BCFB-9C2D07550B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FF5687-1CFB-4FA2-BCFB-9C2D07550B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FF5687-1CFB-4FA2-BCFB-9C2D07550B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FF5687-1CFB-4FA2-BCFB-9C2D07550B61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CFC76E8-9EE8-483E-B04B-E7344F92D07F}
+	EndGlobalSection
+EndGlobal
